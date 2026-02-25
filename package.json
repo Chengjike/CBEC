@@ -1,0 +1,25 @@
+{
+  "name": "cbec",
+  "version": "0.1.0",
+  "description": "Cross-Border E-Commerce Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": ["ecommerce", "cross-border", "international", "trade"],
+  "author": "Chengjike <chengjike@126.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chengjike/CBEC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chengjike/CBEC/issues"
+  },
+  "homepage": "https://github.com/Chengjike/CBEC#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
